@@ -1,0 +1,66 @@
+/*-----Roze boja za navbar, velicina slova, tankoca sova------*/
+#mainNavbar
+{
+    background-color: #dec0de;
+    font-size: 1.5rem;
+    font-weight: 100; 
+}
+
+/*-------Boja za Candy NavBar Brand--------*/
+#mainNavbar .navbar-brand
+{
+    color: red;
+}
+
+/*---------Bela boja za nav lik tabove---------*/
+#mainNavbar .nav-link {
+    color: white;
+}
+
+/*---------Hover za tabove--------*/
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+/*---------Crvena boja kose crte u span-u----------*/
+#headingGroup span
+{
+    color: red;
+}
+
+/*------------Tankoca slova i velicina za h1 kod span-a-------------*/
+#headingGroup h1
+{
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+#drugiRed
+{
+    margin-top: 7%;
+}
+
+/*----------Boja, velicina i tankoca teksta pored slika za h2-----------*/
+.blurb h2 {
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 2.5rem;
+ }
+/*----------Boja, velicina i tankoca teksta pored slika za p-----------*/
+ .blurb p {
+     color: #f498b8;
+     font-weight: 100;
+     font-size: 1.125rem;
+     line-height: 2;
+ }
+
+ #treciRed
+ {
+    margin-top: 7%;
+ }
+
+ #cetvrtiRed
+ {
+     margin-top: 7%;
+     margin-bottom: 8%;
+ }
